@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="11be6d59-f730-45cf-822d-f418706e2bf9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/rmiclasses.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Client.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Client/client/ClientOperation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/ClientOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Interface/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Interface/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Interface/.idea/libraries/rmiclasses.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Interface/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Interface/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Interface/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Interface/Interface.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Interface/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Interface/src/rmiinterface/RMIInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Server/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Server/.idea/libraries/rmiclasses.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Server/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Server/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Server/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Server/Server.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Server/src/model/Contact.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Server/src/server/ServerOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rmiclasses/model/Contact.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rmiclasses/rmiinterface/RMIInterface.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rmiclasses/server/ServerOperation.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1sm0NP5nBXtiwMovwdAeaoxZj7Y" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../rmiclasses" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager">
+    <configuration name="ClientOperation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="client.ClientOperation" />
+      <module name="Client" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ClientOperation" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="11be6d59-f730-45cf-822d-f418706e2bf9" name="Default Changelist" comment="" />
+      <created>1621462423616</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1621462423616</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
